@@ -1,0 +1,5 @@
+beautifulsoup4>=4.9.3
+openai>=1.0.0
+python-dotenv>=0.19.0
+requests>=2.26.0
+serpapi>=0.1.0
